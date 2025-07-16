@@ -135,7 +135,7 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 For questions or collaboration:
 **Aravind raj**
 📧 [jraj272005@gmail.com](mailto:jraj272005@gmail.com)
-🔗 [LinkedIn]()
+🔗 [LinkedIn](https://linkedin.com/in/aravindraj272005)
 
 ---
 
